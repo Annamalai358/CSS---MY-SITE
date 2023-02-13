@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    /*font-size:200%;*/
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Merriweather', serif;
+}
+h1{
+   
+ /*   font-size:100%; */
+}
+h5{
+    /*font-size: 1rem;*/
+}
+.aws{
+   /* width:25%;
+    float:left;
+    margin-right:30px; */
+}
+.top-container{
+
+    position:absolute;
+    top:200px;
+    right:500px;
+
+}
+.top-cloud{
+    position: absolute;
+    top:50px;
+    right:200px;
+
+
+}
+
+.bottom-cloud{
+    position:absolute;
+    top:200px;
+    left:280px;
+
+}
+
+.mountain{
+    position:absolute;
+    top:466px;
+    left:520px;
+
+}
+.skill-row{
+    /*width: 50px;
+    margin:100px auto 100px auto;*/
+}
+
+
+
+
+
+
+
+
+.middle-container{
+
+
+
+}
+
+.bottom-container{
+
+}
+.ground-container{
+  
+}
+
